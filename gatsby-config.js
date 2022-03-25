@@ -7,13 +7,13 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
-    siteTitle: `Meine Homepage`,
-    siteTitleAlt: `Meine Homepage`,
+    siteTitle: `Homepage - Sebastian Schmitt`,
+    siteTitleAlt: `Homepage - Sebastian Schmitt`,
     siteHeadline: `Homepage - Sebastian Schmitt`,
-    siteUrl: `https://home-5007040819.app-ionos.space/about`,
+    siteUrl: `https://home-5007040819.app-ionos.space`,
     siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/banner_homepage.jpg`,
     author: `Sebastian Schmitt`,
   },
   plugins: [
