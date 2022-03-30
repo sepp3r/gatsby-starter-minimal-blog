@@ -11,7 +11,7 @@ module.exports = {
     siteTitleAlt: `Homepage - Sebastian Schmitt`,
     siteHeadline: `Homepage - Sebastian Schmitt`,
     siteUrl: `https://home-5007040819.app-ionos.space`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
+    siteDescription: `Homepage für alle meine beruflichen Aktivitäten.`,
     siteLanguage: `en`,
     siteImage: `/banner_homepage.jpg`,
     author: `Sebastian Schmitt`,
