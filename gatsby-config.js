@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Sebastian Schmitt`,
     siteTitleAlt: `Homepage - Sebastian Schmitt`,
     siteHeadline: `Homepage - Sebastian Schmitt`,
-    siteUrl: `https://home-5007040819.app-ionos.space`,
+    siteUrl: `https://sebastian-schm1tt.com`,
     siteDescription: `Homepage für alle meine beruflichen Aktivitäten.`,
     siteLanguage: `en`,
     siteImage: `/banner_homepage.jpg`,
